@@ -73,7 +73,7 @@ Outro exemplo:
 Digite o produto: pilhas
 
 Material NAO RECICLAVEL
-Descarte em um ponto de coleta especifico da sua cidade
+Descarte em um ponto de coleta especifico da sua cidade, como ecopontos ou em pontos de coleta em lojas e farmacias
 ```
 
 ---
