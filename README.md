@@ -1,7 +1,5 @@
 # Coleta-Seletiva
 
-# Sistema de Separação de Resíduos Recicláveis
-
 ## Descrição
 
 Este projeto foi desenvolvido em linguagem C com o objetivo de auxiliar na separação correta de resíduos recicláveis.
@@ -21,7 +19,7 @@ Além disso, o sistema também identifica materiais não recicláveis, resíduos
   - Vidro
   - Metal
 - Identificação de resíduos:
-  - Orgânicos 
+  - Orgânicos
   - Eletrônicos
   - Hospitalares
   - Químicos
@@ -92,6 +90,5 @@ reciclavel/
 ---
 
 ## Objetivo do projeto
-O projeto foi criado com finalidade educacional, visando incentivar a conscientização ambiental e facilitar o descarte correto de resíduos.
 
 O projeto foi criado com finalidade educacional, visando incentivar a conscientização ambiental e facilitar o descarte correto de resíduos.
